@@ -1,0 +1,84 @@
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Oracle.ManagedDataAccess.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\zffp\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\csc.exe
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\System.Collections.Immutable.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\vbc.exe
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Oracle.ManagedDataAccess.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.Deployment.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Webpages.Razor.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.Deployment.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Webpages.Razor.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\Company Project\protect\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Company Project\protect\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

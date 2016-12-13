@@ -1,0 +1,26 @@
+﻿@model TestModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>编辑数据</title>
+</head>
+<body>
+    <div>
+        <h1 style="color:red">@this.ViewData["errorMessage"]</h1>
+        <form action="/data/edit" method="post">
+
+            <input type="hidden" value="@this.Model.Id" name="Id" />
+
+            <label>名称<input type="text" name="Name" value="@this.Model.Name" /></label><br />
+            <label>年龄<input type="text" name="Age" value="@this.Model.Age" /></label><br />
+            <input type="submit" value="保存" />
+        </form>
+    </div>
+</body>
+</html>
